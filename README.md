@@ -10,12 +10,12 @@
 ### 1. Medical Centre Analysis
 - Описание: Контекстная реклама для медицинского центра — дашборд показывает эффективность рекламных кампаний и ключевые KPI.  
 - Навыки: Power BI, визуализация, KPI, Power Query  
-- Прямой просмотр PDF: [Medical Centre Analysis PDF](https://raw.githubusercontent.com/FilatovaYulia-GB/PowerBI_Portfolio/main/Medical_Centre_Analysis.pdf)
+- Прямой просмотр PDF: [Medical Centre Analysis PDF](https://raw.githubusercontent.com/FilatovaYulia-GB/PowerBI_Portfolio/main/Medical Center Analysis.pdf)
 
 ### 2. Sales and Purchase Dashboard
 - Описание: Дашборд для анализа продаж и закупок — планирование закупок, оборачиваемость товаров, динамика продаж.  
 - Навыки: Power BI, DAX, визуализация, работа с данными из 1С и Excel  
-- Прямой просмотр PDF: [Sales and Purchase Dashboard PDF](https://raw.githubusercontent.com/FilatovaYulia-GB/PowerBI_Portfolio/main/Sales_and_Purchase_Dashboard.pdf)
+- Прямой просмотр PDF: [Sales and Purchase Dashboard PDF](https://raw.githubusercontent.com/FilatovaYulia-GB/PowerBI_Portfolio/main/Dashboard Sales and Purchase.pdf)
 
 ---
 
