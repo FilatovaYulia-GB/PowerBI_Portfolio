@@ -15,7 +15,7 @@
 ### 2. Sales and Purchase Dashboard
 - Описание: Дашборд для анализа продаж и закупок — планирование закупок, оборачиваемость товаров, динамика продаж.  
 - Навыки: Power BI, DAX, визуализация, работа с данными из 1С и Excel  
-- Прямой просмотр PDF:(https://raw.githubusercontent.com/FilatovaYulia-GB/PowerBI_Portfolio/main/Dashboard Sales and Purchase.pdf)
+- Прямой просмотр PDF:(https://github.com/FilatovaYulia-GB/PowerBI_Portfolio/blob/main/Portfolio/Dashboard%20Sales%20and%20Purchase.pdf))
 
 ---
 
